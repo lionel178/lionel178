@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lionel178&repo=lionel178)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
